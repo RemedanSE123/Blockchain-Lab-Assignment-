@@ -3,6 +3,15 @@
  Welcome to our collaborative project repository for the Blockchain &amp; Cryptocurrency course! We'll sign up for Alchemy University, create a GitHub repo for teamwork, complete the Learn Solidity course, and upload all materials, codebases, and screenshots to organize resources effectively. 
 olidity Introduction
 
+## Group Members
+| **Name** | ID |
+| --- | ---|
+Bereket Bamlak |   UGR/22826/13 |
+Reduwan Mudesir |  UGR/22887/13|
+Remedan Heyredin|  UGR/22718/13|
+Nigist  Menebere | UGR/23586/13|
+Abdlrahman Abdela| UGR/22773/13|
+
 ## Smart Contracts
 
 ### Course Overview
